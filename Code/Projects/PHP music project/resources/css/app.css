@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+@source "../views";
+
+.distance{
+    margin-top: 10px;
+}
+
+.listitem:hover{
+    background-color: grey;
+}
+
+.block{
+    margin: 5px;
+}
